@@ -1,0 +1,12 @@
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.csproj.AssemblyReference.cache
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.Properties.Resources.resources
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.csproj.GenerateResource.cache
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.csproj.CoreCompileInputs.cache
+D:\CSharpInicios\CSharpInicio\bin\Debug\CSharpInicio.exe.config
+D:\CSharpInicios\CSharpInicio\bin\Debug\CSharpInicio.exe
+D:\CSharpInicios\CSharpInicio\bin\Debug\CSharpInicio.pdb
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.exe
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.pdb
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.Calculadora.FrmCalculadora.resources
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.Index.resources
+D:\CSharpInicios\CSharpInicio\obj\Debug\CSharpInicio.OperadoresRelacionales.FrmOpRelacionales.resources
